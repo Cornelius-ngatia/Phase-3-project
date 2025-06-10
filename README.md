@@ -12,21 +12,21 @@
 - Target Variable: Treatment (Has the employee sought mental health treatment?)
 - Key features: Treatment(Has the employee sought mental health treatment?)
 ### tech Stack & Libraries
-import pandas as pd
-import numpy as np 
-import matplotlib.pyplot as plt
-import seaborn as sns
-from scipy import stats
-from sklearn.model_selection import train_test_split
-from sklearn.preprocessing import StandardScaler, LabelEncoder, MinMaxScaler
-from sklearn.linear_model import LogisticRegression
-from sklearn.tree import DecisionTreeClassifier
-from sklearn import metrics
-from sklearn.metrics import accuracy_score, mean_squared_error, precision_recall_curve
-from sklearn.model_selection import cross_val_score
-from sklearn.ensemble import RandomForestClassifier
-from sklearn.model_selection import GridSearchCV
-%matplotlib inline
+- import pandas as pd 
+- import numpy as np 
+- import matplotlib.pyplot as plt
+- import seaborn as sns
+- from scipy import stats
+- from sklearn.model_selection import train_test_split
+- from sklearn.preprocessing import StandardScaler, LabelEncoder,MinMaxScaler
+- from sklearn.linear_model import LogisticRegression
+- from sklearn.tree import DecisionTreeClassifier
+- from sklearn import metrics
+- from sklearn.metrics import accuracy_score, mean_squared_error, precision_recall_curve
+- from sklearn.model_selection import cross_val_score
+- from sklearn.ensemble import RandomForestClassifier
+- from sklearn.model_selection import GridSearchCV
+- %matplotlib inline
 ### Model selection
 -  Decision Tree – Easy interpretability for feature analysis
 -  Logistic Regression – Probability-based classification for risk assessment
