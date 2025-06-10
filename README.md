@@ -36,6 +36,6 @@
 - Recall for "At Risk" Employees: 89% (Ensuring high-risk individuals are not overlooked)
 - Feature Importance: Work stress (work_interfere) and family history
 ### Visualizations
-- ![Feature Importance](images/https://github.com/Cornelius-ngatia/Phase-3-project/blob/main/Images/Screenshot%202025-06-10%20114001.png)
+- ![Alt Text](https://github.com/Cornelius-ngatia/Phase-3-project/blob/main/Images/Screenshot%202025-06-10%20114001.png)
 - 
 
