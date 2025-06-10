@@ -37,5 +37,5 @@
 - Feature Importance: Work stress (work_interfere) and family history
 ### Visualizations
 - ![Alt Text](https://github.com/Cornelius-ngatia/Phase-3-project/blob/main/Images/Screenshot%202025-06-10%20114001.png)
-- 
+- ![Alt Text](https://github.com/Cornelius-ngatia/Phase-3-project/blob/main/Images/Screenshot%202025-06-10%20114352.png)
 
