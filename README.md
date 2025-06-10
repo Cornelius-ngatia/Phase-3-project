@@ -35,5 +35,10 @@
 - Best Accuracy: 81% (Logistic Regression)
 - Recall for "At Risk" Employees: 89% (Ensuring high-risk individuals are not overlooked)
 - Feature Importance: Work stress (work_interfere) and family history
-### 
-
+### Visualizations
+- ![Alt Text](https://github.com/Cornelius-ngatia/Phase-3-project/blob/main/Images/Screenshot%202025-06-10%20114001.png)
+- ![Alt Text](https://github.com/Cornelius-ngatia/Phase-3-project/blob/main/Images/Screenshot%202025-06-10%20114352.png)
+- ![Alt Text](https://github.com/Cornelius-ngatia/Phase-3-project/blob/main/Images/Screenshot%202025-06-10%20115106.png)
+- ![Alt Text](https://github.com/Cornelius-ngatia/Phase-3-project/blob/main/Images/Screenshot%202025-06-10%20115204.png)
+### Conclusion
+Our predictive model effectively identifies employees at risk of mental health challenges by analyzing key predictors such as work stress (work_interfere) and family history. Feature selection enhances accuracy, ensuring high-risk individuals are not overlooked. The model enables proactive intervention through decision tree insights for wellness strategies and logistic regression for precise risk assessment. By balancing false positives and false negatives, it optimizes support allocation without overwhelming resources
